@@ -7,6 +7,8 @@ This Repository Contains Basics of Pytorch Framework inorder to understand tenso
 
 ## Getting Started
 
+You only need some basic calculus knowledge in order to understand gradients & algebric knowledge in order to understand basic tensor operations
+
 ### Dependencies
 
 * Pytorch 1.10 
